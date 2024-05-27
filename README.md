@@ -1,2 +1,2 @@
-# Quran_AI
+# QuranAI
  
